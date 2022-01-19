@@ -6,7 +6,9 @@
 
 ## General Info
 This browser based web application to ...
-	
+* Hi my name is Nischey. I'm excited about this project because its a great learning project.
+* Also, I will gain team spirit after this project.
+
 ## Technologies
 Technologies used for this project:
 * HTML, CSS
