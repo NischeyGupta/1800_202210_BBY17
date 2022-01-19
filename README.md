@@ -9,6 +9,8 @@ This browser based web application to ...
 * Hi my name is Nischey. I'm excited about this project because its a great learning project.
 * Also, I will gain team spirit after this project.
 
+* Hi my name is Raghav and I am excited for this project as I will learn many new things
+* I like to play video games and I love dogs	
 ## Technologies
 Technologies used for this project:
 * HTML, CSS
