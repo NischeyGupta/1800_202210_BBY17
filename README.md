@@ -14,6 +14,7 @@ This browser based web application to ...
 
 * Hi my name is Shivam. I am excited about this project because this is a team project.
 * I hail from India.
+* For screen capture
 	
 ## Technologies
 Technologies used for this project:
