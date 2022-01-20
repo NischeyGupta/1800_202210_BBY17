@@ -6,17 +6,15 @@
 
 ## General Info
 This browser based web application to ...
-<<<<<<< HEAD
 * Hi my name is Nischey. I'm excited about this project because its a great learning project.
 * Also, I will gain team spirit after this project.
 
 * Hi my name is Raghav and I am excited for this project as I will learn many new things
-* I like to play video games and I love dogs	
-=======
+* I like to play video games and I love dogs
+	
 * Hi my name is Shivam. I am excited about this project because this is a team project.
 * I hail from India.
 	
->>>>>>> db7a8ba (Added two lines into README file for Shivam)
 ## Technologies
 Technologies used for this project:
 * HTML, CSS
