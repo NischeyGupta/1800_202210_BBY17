@@ -1,0 +1,29 @@
+[33mcommit d595d7c0af97b4a121a86656882e711b9d5b1b22[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nischey Gupta <ngupta16@my.bcit.ca>
+Date:   Thu Jan 20 09:34:16 2022 +0530
+
+    Removed the inappropriate signs from the README file
+
+[33mcommit 7030067cbf43239a4a3aed8dc0449b1c53c27785[m
+Author: SHIVAM <sshivam1@my.bcit.ca>
+Date:   Thu Jan 20 04:32:07 2022 +0530
+
+    Added two lines to README file for Shivam
+
+[33mcommit 057b477cfa5fc6a2a5b90a07829a4e26f0696e6f[m
+Author: Raghav Soni <tman800992@gmail.com>
+Date:   Thu Jan 20 02:51:44 2022 +0530
+
+    Aceepted both changes and saved the file - Raghav
+
+[33mcommit c4ca8d3c00ca082b6b1f56ca25eb4785f714fab7[m
+Author: Nischey Gupta <ngupta16@my.bcit.ca>
+Date:   Thu Jan 20 02:12:48 2022 +0530
+
+    added two lines intro to README file for Nischey
+
+[33mcommit d2990f8db3ade624352a266d4aba94654391853a[m
+Author: NischeyGupta <97556297+NischeyGupta@users.noreply.github.com>
+Date:   Thu Jan 20 01:26:28 2022 +0530
+
+    Initial commit

@@ -11,7 +11,7 @@ This browser based web application to ...
 
 * Hi my name is Raghav and I am excited for this project as I will learn many new things
 * I like to play video games and I love dogs
-	
+
 * Hi my name is Shivam. I am excited about this project because this is a team project.
 * I hail from India.
 	
@@ -49,4 +49,3 @@ Firebase hosting files:
 Tips for file naming files and folders:
 * use lowercase with no spaces
 * use dashes (not underscore) for word separation
-
